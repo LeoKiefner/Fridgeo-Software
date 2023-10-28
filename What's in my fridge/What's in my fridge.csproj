@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19CA9B81-7BB0-4B92-B61C-D3CF4205ED97}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>What_s_in_my_fridge</RootNamespace>
+    <AssemblyName>What%27s in my fridge</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Fridgeo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Fridgeo.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAcceuil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcceuil.Designer.cs">
+      <DependentUpon>frmAcceuil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotation.Designer.cs">
+      <DependentUpon>frmNotation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecetteUnique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecetteUnique.Designer.cs">
+      <DependentUpon>frmRecetteUnique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecettes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecettes.Designer.cs">
+      <DependentUpon>frmRecettes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngredients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngredients.Designer.cs">
+      <DependentUpon>frmIngredients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAcceuil.resx">
+      <DependentUpon>frmAcceuil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotation.resx">
+      <DependentUpon>frmNotation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecetteUnique.resx">
+      <DependentUpon>frmRecetteUnique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecettes.resx">
+      <DependentUpon>frmRecettes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngredients.resx">
+      <DependentUpon>frmIngredients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fridgeo_acceuil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fridgeo_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_2023-05-15_163741969.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrenoir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\output-onlinegiftools.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublecarre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doublecarre1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagerecetteglob.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etoile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etoileb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carreblanc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carregrisfonce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondfrmRecettes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\croix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carreabordsemirond.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carreabordsemirondfonce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carregrisfoncervertical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flechedroite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flechegauche.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\arrabiata.jpg" />
+    <Content Include="Resources\bechamel.jpg" />
+    <Content Include="Resources\beignetsCourgette.jpg" />
+    <Content Include="Resources\cakeSaumon.jpg" />
+    <Content Include="Resources\carrotCake.jpg" />
+    <Content Include="Resources\ceviche.jpg" />
+    <Content Include="Resources\curryAgneau.jpg" />
+    <None Include="Resources\flechedebut.png" />
+    <None Include="Resources\flechefin.png" />
+    <Content Include="Resources\fondantChoc.jpg" />
+    <Content Include="Resources\moelleuxChocolat.jpg" />
+    <Content Include="Resources\moleChocolat.jpg" />
+    <Content Include="Resources\muffin.jpg" />
+    <Content Include="Resources\nougat2.jpg" />
+    <Content Include="Resources\pateBrisee.jpg" />
+    <Content Include="Resources\patesCourgette.jpg" />
+    <Content Include="Resources\pouletAnanas.jpg" />
+    <Content Include="Resources\pruneaux.jpg" />
+    <Content Include="Resources\quicheCourgettes.jpg" />
+    <None Include="Resources\rectanglelong.png" />
+    <Content Include="Resources\risottoJaune.jpg" />
+    <Content Include="Resources\soupeCourgettes.jpg" />
+    <Content Include="Resources\soupeTruffe.jpg" />
+    <Content Include="Resources\spaghetti1.jpg" />
+    <Content Include="Resources\tagliatellesCrevettes.jpg" />
+    <Content Include="Resources\tianLegumes.jpg" />
+    <Content Include="Resources\tiramisu.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,83 @@
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe.config
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.pdb
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.AssemblyReference.cache
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Properties.Resources.resources
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.GenerateResource.cache
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.CoreCompileInputs.cache
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.exe
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe.config
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.AssemblyReference.cache
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Properties.Resources.resources
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.GenerateResource.cache
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.CoreCompileInputs.cache
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.exe
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Acceuil.resources
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Ingredients.resources
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Acceuil.resources
+C:\Users\Theophile\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Ingredients.resources
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecettes.resources
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Form1.resources
+C:\Users\leoki\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.UCetoiles.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe.config
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.exe
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\What's in my fridge.pdb
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.AssemblyReference.cache
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecettes.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.Properties.Resources.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.GenerateResource.cache
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.CoreCompileInputs.cache
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.exe
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\What's in my fridge.exe.config
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\What's in my fridge.exe
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.csproj.AssemblyReference.cache
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmAcceuil.resources
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecettes.resources
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmIngredients.resources
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.Properties.Resources.resources
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.csproj.GenerateResource.cache
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.csproj.CoreCompileInputs.cache
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.exe
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.pdb
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecetteUnique.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmAcceuil.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecetteUnique.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmIngredients.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What's in my fridge.csproj.CopyComplete
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What's in my fridge.csproj.CopyComplete
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\itextsharp.dll
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\bin\Debug\itextsharp.xml
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\itextsharp.dll
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\bin\Debug\itextsharp.xml
+C:\Users\leoki\whats-in-my-fridge-Design\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmNotation.resources
+C:\Users\theop\git\whats-in-my-fridge\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmNotation.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\What's in my fridge.exe.config
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\What's in my fridge.exe
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\What's in my fridge.pdb
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\itextsharp.dll
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\bin\Debug\itextsharp.xml
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.csproj.AssemblyReference.cache
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmAcceuil.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmNotation.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecetteUnique.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmRecettes.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.frmIngredients.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What_s_in_my_fridge.Properties.Resources.resources
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.csproj.GenerateResource.cache
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.csproj.CoreCompileInputs.cache
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.csproj.CopyComplete
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.exe
+C:\Users\leoki\Documents\GitHub\Fridgeo-Application\What's in my fridge\obj\Debug\What's in my fridge.pdb
